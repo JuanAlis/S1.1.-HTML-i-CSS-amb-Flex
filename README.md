@@ -1,0 +1,3 @@
+S1.1. HTML i CSS amb Flex 
+
+A partir del wireframe que se me proporcionó en formato .png, comencé creando la estructura básica en HTML con los elementos principales como cabecera, cuerpo y pie de página. Para organizar el contenido utilicé Flexbox en CSS, asegurando que las columnas y secciones se distribuyeran de manera adecuada en el diseño de escritorio. Utilicé media queries para hacer el diseño responsivo, ajustando el contenido a pantallas más pequeñas de tabletas y móviles, cambiando el layout y los tamaños según fuera necesario ademas apliqué cambios de color de fondo. También, añadí una animacion al logo para darle un toque dinámico.
